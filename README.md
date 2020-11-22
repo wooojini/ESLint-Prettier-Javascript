@@ -1,4 +1,4 @@
-# ESLint-Prettier Javascript 환경설정
+# Javascript ESLint-Prettier 
 
 ## 린트(Lint) or 린터(Linter)
 - 코드의 오류나 버그, 스타일을 점검하는 것을 린트 혹은 린터라 한다
